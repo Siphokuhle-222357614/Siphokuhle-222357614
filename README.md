@@ -43,22 +43,7 @@ I'm open to internships, collaborations, and open-source contributions. Feel fre
 
 📧 Email: 222357614@mycput.ac.za
 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/siphokuhle-gedze-b49683233/)
-   CV : 
+   CV : https://github.com/user-attachments/assets/2553a7b6-ba1c-4fc8-8e21-ac5c1a6e8aef
+        https://github.com/user-attachments/assets/dd4e0dd3-bcf0-42c1-adb3-8afaa17045ff
 
-🔨 Things You Should Add to Your Portfolio
-A README.md file (like this one) summarizing your skills and projects.
 
-Pinned Repositories (Highlight your best projects).
-
-Contributions to Open Source (If any).
-
-Blog/Medium Articles (If you write about tech).
-
-LeetCode/HackerRank Profile (If you practice coding challenges).
-
-Resume PDF (Upload in a repo or GitHub profile).
-
-Demo Links (Live projects on Vercel/Netlify if applicable).
-
-⭐ Star my repos if you find them useful! ⭐
-This portfolio reflects the practical and personal development I’ve achieved through the Work-Readiness Module. From defining career goals and understanding my skills, to creating a professional CV and learning digital etiquette, I now feel confident in my preparedness for the modern workplace. This experience has given me both the tools and the mindset to continue growing professionally and to enter the job market with purpose.
