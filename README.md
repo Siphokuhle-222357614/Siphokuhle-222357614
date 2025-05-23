@@ -2,10 +2,13 @@
 Welcome to my GitHub portfolio! I'm a 3rd-year IT student passionate about software development and emerging technologies. Below, you'll find my projects, skills, and contributions.
 
 🔗 GitHub Profile
+
 📧 Email: 222357614@mycput.ac.za
+
 🔗 LinkedIn: https://www.linkedin.com/in/siphokuhle-gedze-b49683233/
 
 📌 About Me
+
 🎓 Currently pursuing a Diploma in ICT in Application Developmente (Expected Graduation: 2025).
 
 💻 Interested in Web Development and System Administrator.
@@ -44,8 +47,9 @@ I'm open to internships, collaborations, and open-source contributions. Feel fre
 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/siphokuhle-gedze-b49683233/)
 
    CV : https://github.com/user-attachments/assets/dd4e0dd3-bcf0-42c1-adb3-8afaa17045ff
-   
         https://github.com/user-attachments/assets/2553a7b6-ba1c-4fc8-8e21-ac5c1a6e8aef
-        
+
+Conclusion
+
 Thank you for visiting my GitHub portfolio! As a 3rd-year IT student, I am constantly expanding my knowledge and working on exciting projects to sharpen my skills in software development.
 
