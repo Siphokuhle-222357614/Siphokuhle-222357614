@@ -46,7 +46,7 @@ I'm open to internships, collaborations, and open-source contributions. Feel fre
 
 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/siphokuhle-gedze-b49683233/)
 
-   CV : https://github.com/user-attachments/assets/dd4e0dd3-bcf0-42c1-adb3-8afaa17045ff
+   CV : https://github.com/user-attachments/assets/dd4e0dd3-bcf0-42c1-adb3-8afaa17045ff                        
         https://github.com/user-attachments/assets/2553a7b6-ba1c-4fc8-8e21-ac5c1a6e8aef
 
 Conclusion
