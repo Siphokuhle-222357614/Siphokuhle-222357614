@@ -8,7 +8,7 @@ Welcome to my Work-Integrated Learning (WIL) portfolio. I am a 3rd-year IT stude
 - **Student Number:** 222357614
 - **Email:** 222357614@mycput.ac.za
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/siphokuhle-gedze-b49683233/)
-- **Graduating:** December 2025
+- **Graduating:** April 2027
 
 ---
 
