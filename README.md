@@ -152,4 +152,4 @@ I am actively seeking a WIL placement for the 2026 academic year. I am open to r
 - **LinkedIn:** [https://www.linkedin.com/in/siphokuhle-gedze-b49683233/](https://www.linkedin.com/in/siphokuhle-gedze-b49683233/)
 
 ---
-*This portfolio was created as part of the PRP37XS curriculum at CPUT.*
+*This portfolio was created as part of the PRP372S curriculum at CPUT.*
