@@ -19,12 +19,12 @@ This portfolio is my submission for **Project Presentation III (PRP372S)** . It 
 ### Module 1: CV Writing & Personal Branding
 A professional CV is a critical tool for securing interviews. My CV highlights my technical skills, academic achievements, and work experience.
 
-- **[View My CV (PDF)]** [`[Insert link to your CV PDF file]`](https://drive.google.com/file/d/1KGt9S1-OSYqgh1XiNNE7vExxVgkMdh5T/view?usp=drive_link)
+- **[View My CV (PDF)]** [`[Siphokuhle Gedze's CV]`](https://drive.google.com/file/d/1KGt9S1-OSYqgh1XiNNE7vExxVgkMdh5T/view?usp=drive_link)
 
 ### Module 2: Mock Interview & Interview Skills
 To demonstrate my interview readiness, I completed a mock interview. This video showcases my ability to answer technical, behavioral, and personality-based questions professionally.
 
-- **[Watch My Mock Interview Video]** [`[Insert link to your video file or YouTube link]`](https://drive.google.com/file/d/1Wv7PIrTRUkdGS4Pjx3lNYUxn5J2Ve4JF/view?usp=drive_link)
+- **[Watch My Mock Interview Video]** [`[Mock Interview Video]`](https://drive.google.com/file/d/1Wv7PIrTRUkdGS4Pjx3lNYUxn5J2Ve4JF/view?usp=drive_link)
 
 ### Module 3: GitHub Portfolio & Markdown
 This digital portfolio itself is a demonstration of my ability to use **Git**, **GitHub Pages**, and **Markdown** to present information in a structured and professional manner.
@@ -37,11 +37,11 @@ This digital portfolio itself is a demonstration of my ability to use **Git**, *
 A web-based application designed to streamline tyre sales, inventory management, and customer appointments for a tyre shop. The system consists of a backend API and a responsive frontend built with Vue.js.
 
 #### Backend Repository
-- **[TymelessTyre Backend]** [`[Insert link to your backend repo]`](https://github.com/Siphokuhle-222357614/TymelessTyre)
+- **[TymelessTyre Backend]** [`[Backend repo]`](https://github.com/Siphokuhle-222357614/TymelessTyre)
 - **Tech Stack:** Spring Boot, JPA, MySQL, REST API
 
 #### Frontend Repository
-- **[TymelessTyre Frontend]** [`[Insert link to your frontend repo]`](https://github.com/Siphokuhle-222357614/TymelessTyre-frontend)
+- **[TymelessTyre Frontend]** [`[Frontend repo]`](https://github.com/Siphokuhle-222357614/TymelessTyre-frontend)
 - **Tech Stack:** Vue.js, Vue Router, Axios, HTML, CSS
 
 #### Key Features
@@ -58,13 +58,12 @@ A web-based application designed to streamline tyre sales, inventory management,
 As part of the curriculum, I have developed a business case and Agile project plan for TymelessTyre.
 
 ### Business Case: TymelessTyre
-- **[View Full Business Case (PDF)]** [`[Insert link to business case PDF]`](https://github.com/Siphokuhle-222357614/Siphokuhle-222357614/blob/main/business-case.md)
+- **[View Full Business Case (PDF)]** [`[Business case PDF]`](https://github.com/Siphokuhle-222357614/Siphokuhle-222357614/blob/main/business-case.md)
 
 ### Agile Project Plan & Logbook
 I applied Agile (Scrum) methodology to manage the development of TymelessTyre. Below is an overview of the project plan and a logbook tracking my progress.
 
-- **[View Agile Project Plan]** `[Insert link to your agile plan file or section below]`
-- **[View Agile Logbook]** [`[Insert link to your logbook file or section below]`
+- **[View Agile Logbook]** [`[Logbook file or section below]`
 ](https://github.com/Siphokuhle-222357614/Siphokuhle-222357614/blob/main/agile-logbook.md)
 *(The logbook is also embedded below for quick reference.)*
 
@@ -141,7 +140,7 @@ The following reflections connect my work on TymelessTyre to the core graduate a
 ---
 
 ## 📜 Certifications & Courses
-[`[Insert link to your certification image/file]`](https://drive.google.com/file/d/1xtB962-ZQyeNduaKxP1jC-WbYdo6iaOK/view?usp=drive_link)
+[`[Huawei Certification file]`](https://drive.google.com/file/d/1xtB962-ZQyeNduaKxP1jC-WbYdo6iaOK/view?usp=drive_link)
 
 ---
 
