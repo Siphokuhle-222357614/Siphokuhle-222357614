@@ -45,7 +45,7 @@ Set up the Spring Boot backend, design the database schema, and implement basic 
 ---
 
 ## Sprint 2: Frontend Setup & Tyre Listing
-**Dates:** [e.g., 15–28 August 2025]
+**Dates:** [15–28 August 2025]
 
 ### Goal
 Create a Vue.js frontend that can fetch and display tyre data from the backend.
@@ -125,7 +125,7 @@ Implement user login, JWT storage, and protect routes based on roles.
 ---
 
 ## Sprint 4: Appointment Management (Ongoing / Planned)
-**Dates:** [e.g., 12–25 September 2025]
+**Dates:** [12–25 September 2025]
 
 ### Goal
 Add appointment scheduling functionality for customers and staff.
