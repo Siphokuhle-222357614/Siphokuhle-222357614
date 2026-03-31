@@ -8,14 +8,14 @@
   <div class="cv-container">
     <h2>📄 My CV</h2>
     <!-- Use iframe for PDF (works well on most browsers) -->
-    <iframe src="/Siphokuhle.Gedze.CV.pdf" style="width:100%; height:800px;" frameborder="0"></iframe>
-    <p>If the PDF doesn't load, <a href="cv.pdf">download it</a>.</p>
+    <iframe src="Siphokuhle.Gedze.CV.pdf" style="width:100%; height:800px;" frameborder="0"></iframe>
+    <p>If the PDF doesn't load, <a href="Siphokuhle.Gedze.CV.pdf">download it</a>.</p>
   </div>
 
   <div class="video-container">
     <h2>🎥 Mock Interview Video</h2>
     <video controls>
-      <source src="/Siphokuhle Gedze Mock Interview.mp4" type="video/mp4">
+      <source src="Siphokuhle Gedze Mock Interview.mp4" type="video/mp4">
       Your browser does not support video.
     </video>
   </div>
