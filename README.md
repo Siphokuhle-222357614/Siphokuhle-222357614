@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Siphokuhle Gedze – WIL Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; }
+    iframe, object { width: 100%; height: 800px; border: 1px solid #ccc; }
+    video { max-width: 100%; }
+  </style>
 </head>
 <body>
   <h1>Siphokuhle Gedze – WIL Portfolio</h1>
