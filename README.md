@@ -1,4 +1,3 @@
-</head>
 <body>
   <h1>Siphokuhle Gedze – WIL Portfolio</h1>
 
